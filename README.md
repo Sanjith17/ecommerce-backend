@@ -1,4 +1,4 @@
-````markdown
+
 # 🛍️ E-Commerce Backend Microservices Platform
 
 ## 🌟 Overview
@@ -344,9 +344,4 @@ docker-compose up -d --build order-service
 - Helps analyze latency, request flow, and bottlenecks.
 - Enables debugging of inter-service communication.
 
----
 
-# 📄 License
-
-This project is licensed under the MIT License.
-````
